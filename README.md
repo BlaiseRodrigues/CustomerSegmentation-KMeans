@@ -10,4 +10,4 @@ Bank Customer Segmentation using KMeans
 </ul>
 
 References.
-<a href='https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html'>Sklearn - KMeans</a>
+<a href='https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html'>Sklearn - KMeans</a>, <a href='https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/'>Elbow Method for Optimal values of 'K'.</a>
