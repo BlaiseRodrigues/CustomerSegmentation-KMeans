@@ -2,7 +2,7 @@
 
 Bank Customer Segmentation using KMeans
 <ul>
-  <li>Kmeans Clustering is an Unsupervised Machine Leaning Algorith.</li>
+  <li>Kmeans Clustering is an Unsupervised Machine Leaning Algorithm.</li>
   <li>It is used to cluster data in 'k' number of clusters.</li>
   <li>Initially k different centroids are indentified and every data point is allocated to the nearest Centroids.</li>
   <li>After allocating the data points a new centroid is calculated for each cluster.</li>
