@@ -8,3 +8,6 @@ Bank Customer Segmentation using KMeans
   <li>After allocating the data points a new centroid is calculated for each cluster.</li>
   <li>This new centroid for each cluster is selected such that it minimizes the distance between the centroid and every other data point in that cluster.</li>
 </ul>
+
+References.
+<a href='https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html'>Sklearn - KMeans</a>
